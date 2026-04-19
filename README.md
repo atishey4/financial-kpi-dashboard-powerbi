@@ -4,7 +4,7 @@
 
 | File | Description |
 |---|---|
-| [📊 Financial KPI Dashboard.pbix](https://github.com/atishey4/financial-kpi-dashboard-powerbi/raw/main/Financial%20KPI%20Dashboard.pbix) | Power BI Dashboard File |
+| [📊 Financial_KPI_Dashboard.pbix](https://github.com/atishey4/financial-kpi-dashboard-powerbi/raw/main/Financial_KPI_Dashboard.pbix) | Power BI Dashboard File |
 
 > **Note:** Download the `.pbix` file and open it with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to explore the full interactive dashboard.
 
