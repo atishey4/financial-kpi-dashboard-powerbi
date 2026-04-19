@@ -1,5 +1,11 @@
 # Financial KPI Monitoring & Profitability Dashboard
 
+## Dashboard Overview
+
+![Financial KPI Dashboard](screenshots/Screenshot%202026-04-19%20015756.png)
+
+---
+
 ## Objective
 To build a Power BI dashboard that monitors key financial KPIs (Revenue, Expenses, Profit Margin, ROI, Operating Costs) and provides profitability insights across products, regions, and time periods.
 
@@ -106,15 +112,6 @@ Cost Ratio % = DIVIDE([Total Cost], [Total Revenue], 0) * 100
 - **Online and Direct** channels contribute the majority of revenue based on sales channel distribution
 - Revenue remains relatively stable month-over-month with a slight dip mid-year, suggesting seasonal patterns
 - Despite consistent revenue, margin fluctuations indicate varying cost structures across departments
-
----
-
-## Screenshots
-
-### Dashboard Overview
-![Financial KPI Dashboard](screenshots/dashboard_overview.png)
-
-> *Add your Power BI dashboard screenshot here. Export from Power BI → File → Export → Export to PDF or take a screenshot and save in the `screenshots/` folder.*
 
 ---
 
