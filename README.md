@@ -1,5 +1,15 @@
 # Financial KPI Monitoring & Profitability Dashboard
 
+## 📥 Download
+
+| File | Description |
+|---|---|
+| [📊 Financial KPI Dashboard.pbix](https://github.com/atishey4/financial-kpi-dashboard-powerbi/raw/main/Financial%20KPI%20Dashboard.pbix) | Power BI Dashboard File |
+
+> **Note:** Download the `.pbix` file and open it with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to explore the full interactive dashboard.
+
+---
+
 ## Dashboard Overview
 
 ![Financial KPI Dashboard](screenshots/Screenshot%202026-04-19%20015756.png)
